@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-printf("‚¨‚Í‚æ‚¤\n‚±‚ñ‚É‚¿‚Í\n‚±‚ñ‚Î‚ñ‚Í\n");
+printf("ãŠã¯ã‚ˆã†\nã“ã‚“ã«ã¡ã¯\nã“ã‚“ã°ã‚“ã‚\n");
 
 return 0;
 }
